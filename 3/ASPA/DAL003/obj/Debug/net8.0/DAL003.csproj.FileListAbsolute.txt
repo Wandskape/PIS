@@ -1,0 +1,13 @@
+D:\6sem\PIS\3\ASPA\DAL003\bin\Debug\net8.0\DAL003.deps.json
+D:\6sem\PIS\3\ASPA\DAL003\bin\Debug\net8.0\DAL003.dll
+D:\6sem\PIS\3\ASPA\DAL003\bin\Debug\net8.0\DAL003.pdb
+D:\6sem\PIS\3\ASPA\DAL003\obj\Debug\net8.0\DAL003.csproj.AssemblyReference.cache
+D:\6sem\PIS\3\ASPA\DAL003\obj\Debug\net8.0\DAL003.GeneratedMSBuildEditorConfig.editorconfig
+D:\6sem\PIS\3\ASPA\DAL003\obj\Debug\net8.0\DAL003.AssemblyInfoInputs.cache
+D:\6sem\PIS\3\ASPA\DAL003\obj\Debug\net8.0\DAL003.AssemblyInfo.cs
+D:\6sem\PIS\3\ASPA\DAL003\obj\Debug\net8.0\DAL003.csproj.CoreCompileInputs.cache
+D:\6sem\PIS\3\ASPA\DAL003\obj\Debug\net8.0\DAL003.sourcelink.json
+D:\6sem\PIS\3\ASPA\DAL003\obj\Debug\net8.0\DAL003.dll
+D:\6sem\PIS\3\ASPA\DAL003\obj\Debug\net8.0\refint\DAL003.dll
+D:\6sem\PIS\3\ASPA\DAL003\obj\Debug\net8.0\DAL003.pdb
+D:\6sem\PIS\3\ASPA\DAL003\obj\Debug\net8.0\ref\DAL003.dll
