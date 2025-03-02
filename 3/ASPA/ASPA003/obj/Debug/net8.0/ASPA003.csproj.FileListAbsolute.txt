@@ -1,5 +1,7 @@
 D:\6sem\PIS\3\ASPA\ASPA003\bin\Debug\net8.0\appsettings.Development.json
 D:\6sem\PIS\3\ASPA\ASPA003\bin\Debug\net8.0\appsettings.json
+D:\6sem\PIS\3\ASPA\ASPA003\bin\Debug\net8.0\Celebrities.json
+D:\6sem\PIS\3\ASPA\ASPA003\bin\Debug\net8.0\Celebrities\Celebrities.json
 D:\6sem\PIS\3\ASPA\ASPA003\bin\Debug\net8.0\ASPA003.staticwebassets.endpoints.json
 D:\6sem\PIS\3\ASPA\ASPA003\bin\Debug\net8.0\ASPA003.exe
 D:\6sem\PIS\3\ASPA\ASPA003\bin\Debug\net8.0\ASPA003.deps.json
@@ -33,5 +35,3 @@ D:\6sem\PIS\3\ASPA\ASPA003\obj\Debug\net8.0\refint\ASPA003.dll
 D:\6sem\PIS\3\ASPA\ASPA003\obj\Debug\net8.0\ASPA003.pdb
 D:\6sem\PIS\3\ASPA\ASPA003\obj\Debug\net8.0\ASPA003.genruntimeconfig.cache
 D:\6sem\PIS\3\ASPA\ASPA003\obj\Debug\net8.0\ref\ASPA003.dll
-D:\6sem\PIS\3\ASPA\ASPA003\bin\Debug\net8.0\Celebrities.json
-D:\6sem\PIS\3\ASPA\ASPA003\bin\Debug\net8.0\Celebrities\Celebrities.json

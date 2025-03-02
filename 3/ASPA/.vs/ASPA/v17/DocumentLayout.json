@@ -3,10 +3,6 @@
   "WorkspaceRootPath": "D:\\6sem\\PIS\\3\\ASPA\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8406137B-0891-49BD-89F1-DEE9597D68F0}|ASPA003\\ASPA003.csproj|d:\\6sem\\pis\\3\\aspa\\aspa003\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8406137B-0891-49BD-89F1-DEE9597D68F0}|ASPA003\\ASPA003.csproj|solutionrelative:aspa003\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{832C5670-3373-4866-8C9A-4F9F5317D5E0}|Test_DAL003\\Test_DAL003.csproj|d:\\6sem\\pis\\3\\aspa\\test_dal003\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{832C5670-3373-4866-8C9A-4F9F5317D5E0}|Test_DAL003\\Test_DAL003.csproj|solutionrelative:test_dal003\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -17,6 +13,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{5D789125-216F-4B23-8FB1-C967709D459B}|DAL003\\DAL003.csproj|d:\\6sem\\pis\\3\\aspa\\dal003\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5D789125-216F-4B23-8FB1-C967709D459B}|DAL003\\DAL003.csproj|solutionrelative:dal003\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8406137B-0891-49BD-89F1-DEE9597D68F0}|ASPA003\\ASPA003.csproj|d:\\6sem\\pis\\3\\aspa\\aspa003\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8406137B-0891-49BD-89F1-DEE9597D68F0}|ASPA003\\ASPA003.csproj|solutionrelative:aspa003\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -32,52 +32,52 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\6sem\\PIS\\3\\ASPA\\ASPA003\\Program.cs",
-              "RelativeDocumentMoniker": "ASPA003\\Program.cs",
-              "ToolTip": "D:\\6sem\\PIS\\3\\ASPA\\ASPA003\\Program.cs",
-              "RelativeToolTip": "ASPA003\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-27T19:58:03.382Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
               "DocumentMoniker": "D:\\6sem\\PIS\\3\\ASPA\\Test_DAL003\\Program.cs",
               "RelativeDocumentMoniker": "Test_DAL003\\Program.cs",
               "ToolTip": "D:\\6sem\\PIS\\3\\ASPA\\Test_DAL003\\Program.cs",
               "RelativeToolTip": "Test_DAL003\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAANAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-27T19:57:25.765Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Repository.cs",
-              "DocumentMoniker": "D:\\6sem\\PIS\\3\\ASPA\\DAL003\\Repository.cs",
-              "RelativeDocumentMoniker": "DAL003\\Repository.cs",
-              "ToolTip": "D:\\6sem\\PIS\\3\\ASPA\\DAL003\\Repository.cs",
-              "RelativeToolTip": "DAL003\\Repository.cs",
-              "ViewState": "AgIAABcAAAAAAAAAAAAgwCsAAAAdAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-27T19:56:23.42Z",
+              "WhenOpened": "2025-02-28T07:16:47.223Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\6sem\\PIS\\3\\ASPA\\ASPA003\\Program.cs",
+              "RelativeDocumentMoniker": "ASPA003\\Program.cs",
+              "ToolTip": "D:\\6sem\\PIS\\3\\ASPA\\ASPA003\\Program.cs",
+              "RelativeToolTip": "ASPA003\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T07:14:52.124Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "IRepository.cs",
               "DocumentMoniker": "D:\\6sem\\PIS\\3\\ASPA\\DAL003\\IRepository.cs",
               "RelativeDocumentMoniker": "DAL003\\IRepository.cs",
               "ToolTip": "D:\\6sem\\PIS\\3\\ASPA\\DAL003\\IRepository.cs",
               "RelativeToolTip": "DAL003\\IRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAABYAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-27T19:55:13.881Z",
+              "WhenOpened": "2025-02-28T07:11:32.721Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "D:\\6sem\\PIS\\3\\ASPA\\DAL003\\Repository.cs",
+              "RelativeDocumentMoniker": "DAL003\\Repository.cs",
+              "ToolTip": "D:\\6sem\\PIS\\3\\ASPA\\DAL003\\Repository.cs",
+              "RelativeToolTip": "DAL003\\Repository.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAuwCIAAABXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T07:11:31.558Z",
               "EditorCaption": ""
             }
           ]
